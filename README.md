@@ -1,1 +1,1 @@
-# scaffold-tools
+# private scaffold-tools
