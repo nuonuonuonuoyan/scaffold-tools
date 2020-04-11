@@ -21,7 +21,7 @@ yaso init eggjs
 ![image](https://github.com/nuonuonuonuoyan/scaffold-tools/blob/master/images/init.png)
 
 
-
+![image](http://blog-1259744639.cos.ap-beijing.myqcloud.com/comment/27449eedf8e1f301baeae1dd2399ec72.png)
 
 
 选择一个模板进行下载，比如选择胖哥的egg教程，询问的信息可以不用理会，直接一路回车就可以
